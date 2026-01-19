@@ -1,0 +1,7 @@
+feature_id,correlation_score,mutual_info_score
+dist_sensor,0.85,0.42
+lidar_intensity,0.72,0.38
+humidity_sensor,0.12,0.05
+wind_speed,0.08,0.02
+camera_pixel_avg,0.65,0.31
+tire_pressure,0.01,0.01
